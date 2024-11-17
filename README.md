@@ -1,1 +1,2 @@
-# Here we have provided the complete instructions to apply the code for analysis of biomarker concentrations obtained from blood tests of different patients(Normal and cancer patients) by applying the methodology mentioned in our paper named "Enhanced Early Cancer Detection via Topological Data Analysis of Blood Biomarkers: A Non-Invasive Approach for Accurate, Multi-Cancer Screening" by Sudarshan Gogoi, Bikash Thakuri and Amit Chakraborty
+# Topological Data Analysis(TDA) to detect cancer
+# Codes and Datasets
